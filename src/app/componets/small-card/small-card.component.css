@@ -8,6 +8,7 @@
 }
 .small-card__photo > img{
     width: 200px;
+    height: 200px;
     min-width: 200px;
     margin-right: 20px;
 }
@@ -15,7 +16,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
+    font-size: 14px;
 }
 .contaner-small-card__separador{
     margin-top: 10px;
